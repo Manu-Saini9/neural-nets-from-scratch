@@ -83,7 +83,7 @@ Four models are implemented and rigorously compared on a binary classification t
 - Architecture: Conv → ReLU → MaxPool → Flatten → FC → ReLU → Output → Sigmoid
 - 8 filters of size 3×3
 - Forward and backward pass implemented manually
-- **Test Accuracy: 85.2%** ✅ Best model
+- **Test Accuracy: 85.2%**  Best model
 
 ---
 
